@@ -16,6 +16,10 @@ Why we use AI agents for all tasks, the three-tool model (Claude Chat, Claude Co
 
 How to work effectively with Claude Code: prompting, Plan Mode, session management, and avoiding common failure patterns.
 
+### [Claude Code Workflow Setup](./resources/AI_Agent_Workflow/Claude_Code_Workflow_Setup.md)
+
+Papaya's preferred Claude Code workflow setup: Superpowers flow, branch/worktree/PR rules, harnesses, statusline, auto mode, context management, and reviewer agents.
+
 ### [Agent Troubleshooting](./resources/AI_Agent_Workflow/Agent_Troubleshooting.md)
 
 Common issues with AI agents and how to resolve them: loops, hallucinated APIs, context limits, scope creep.

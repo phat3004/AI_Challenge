@@ -22,6 +22,7 @@
   /plugin marketplace add papaya-insurtech/pumpkin
   /plugin install typescript-convention@papaya-pumpkin
   ```
+  See the setup guide for the full skill list.
 - [ ] Run `claude` in a project directory and verify it works
 
 ## 4. Technical Onboarding
@@ -31,6 +32,7 @@
 - [ ] Read the [Software Artisan Handbook](../Software_Artisan_Handbook/Software_Artisan_Handbook.md)
 - [ ] Read [AI Agent Philosophy](../Software_Artisan_Handbook/resources/AI_Agent_Workflow/AI_Agent_Philosophy.md)
 - [ ] Read [Claude Code Best Practices](../Software_Artisan_Handbook/resources/AI_Agent_Workflow/Claude_Code_Best_Practices.md)
+- [ ] Read [Claude Code Workflow Setup](../Software_Artisan_Handbook/resources/AI_Agent_Workflow/Claude_Code_Workflow_Setup.md)
 
 ## 5. Product Onboarding
 

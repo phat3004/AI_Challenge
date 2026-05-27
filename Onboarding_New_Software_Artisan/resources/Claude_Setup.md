@@ -73,8 +73,9 @@ Install Papaya's coding convention skills so Claude Code follows team standards:
 # Install specific convention skills:
 /plugin install typescript-convention@papaya-pumpkin
 /plugin install react-convention@papaya-pumpkin
+/plugin install react-native-convention@papaya-pumpkin
 /plugin install hasura-graphql-convention@papaya-pumpkin
-/plugin install apollo-client-convention@papaya-pumpkin
+/plugin install nodejs-convention@papaya-pumpkin
 /plugin install ant-design-convention@papaya-pumpkin
 ```
 

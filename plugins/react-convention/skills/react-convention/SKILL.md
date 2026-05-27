@@ -50,7 +50,7 @@ import ExternalLink from "app/common/components/ExternalLink";
 
 ## Convention Topics (Expand as needed)
 
-- Apollo Client Convention (see `apollo-client-convention` skill)
+- Apollo Client Convention
 - Error Handling Convention
 - Library type (built-in, self-developed, 3rd party) preference
 - React hooks convention
