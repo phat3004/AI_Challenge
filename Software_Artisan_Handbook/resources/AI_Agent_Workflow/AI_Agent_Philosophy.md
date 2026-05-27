@@ -78,3 +78,28 @@ When the agent presents options or asks for clarification, you make the call. Yo
 5. **Use the right tool.** Don't use Claude Code for brainstorming. Don't use Claude Chat for git operations. Each tool has a sweet spot.
 
 6. **Stay in control.** The agent works for you. If it's going in the wrong direction, stop it early and redirect. See [Agent Troubleshooting](./Agent_Troubleshooting.md).
+
+## Operating Mindset
+
+### Ask What and Why Before How
+
+The most valuable context for an agent is usually **what** needs to happen and **why** it matters. The agent can propose the **how**; the engineer reviews, challenges, and decides.
+
+When you already know a likely solution, share it as context, not as the only allowed path. Ask the agent to evaluate the direction, list risks, and compare alternatives. This produces better plans than forcing the agent to mechanically execute a solution that may be incomplete, outdated, or too narrow.
+
+### Review Plans More Than Raw Code
+
+Human review has the most leverage before implementation:
+- Review 100% of plans, specs, proposed solutions, trade-offs, and assumptions.
+- Let agents review 100% of generated code before human review.
+- Human code review should focus on risky areas: business logic, permissions, migrations, security, production data, external integrations, and areas where the agent made assumptions.
+
+Reviewing a plan is cheaper than reviewing a large diff after the wrong approach has already been implemented.
+
+### Autonomous Is Not Automation
+
+An agent doing work for a human is **autonomous work**, not automation. Autonomous work is flexible and useful for ambiguous tasks, but it has costs: token usage, context drift, non-determinism, and occasional instability.
+
+Automation is better for stable, repeated, rules-based, or scriptable work. When an agent successfully performs the same kind of task multiple times, ask: "Can we automate this with a script, CLI, hook, or workflow?"
+
+Use agents to discover automatable work, then use agents again to help build the automation.
