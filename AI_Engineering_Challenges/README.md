@@ -22,6 +22,19 @@ This reflects how we actually work. Every engineer, product manager, and analyst
 3. **Focus on the outcome.** A working, correct, well-presented solution matters more than how you got there.
 4. **Don't fake it.** If the AI generates something you don't understand, take the time to understand it. We may ask you to explain your solution.
 
+## A note on one-shotting
+
+If you one-shot the app — paste the brief into an AI tool, ship whatever it produces, submit — you will fail the case. 100% of the time. Not because we dislike AI tools (we live in them daily), but because one-shotting hides exactly the things we're trying to see.
+
+The challenge exists to surface:
+
+- **Software design** — how you decompose a problem and structure the solution
+- **Attention to detail** — edge cases, error states, the things not spelled out in the brief
+- **Polish** — whether the result *feels* right, not just runs
+- **Learning velocity** — how fast you absorb a new domain (insurance) and put it to work
+
+Agentic engineering doesn't *create* these qualities. It amplifies what you already bring — it enhances candidates who have them, and exposes candidates who don't. Your job is to direct the AI, evaluate its output, catch what it misses, and own every line that ends up in the submission.
+
 ## Challenges
 
 ### Beginner (2–4 hours)
