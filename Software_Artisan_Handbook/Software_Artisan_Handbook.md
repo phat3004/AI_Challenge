@@ -60,10 +60,6 @@ Our technology stack including AI tools.
 
 Required software and tools for development.
 
-### [VSCode Recommended Extensions](./resources/VS_Code_Recommended_Extensions.md)
-
-Recommended VS Code / Cursor extensions.
-
 ## Section 4: Communication
 
 ### [Communication Convention](./resources/Communication_Convention.md)

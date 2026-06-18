@@ -2,24 +2,18 @@
 
 ## AI Tools
 
-1. [Claude Code](https://code.claude.com/) -- CLI tool for coding, git, tests, PRs, automation. Install: `curl -fsSL https://claude.ai/install.sh | bash` (macOS/Linux) or `winget install Anthropic.ClaudeCode` (Windows). Run `claude` in any project directory.
-2. [Claude Desktop](https://claude.ai/download) -- Desktop app for Claude Chat and Claude Cowork. Download for macOS/Windows.
-
-## IDE
-
-1. [Visual Studio Code](https://code.visualstudio.com/)
-2. [Cursor](https://www.cursor.com/)
-3. *Do not use any other IDE.*
+1. [CMUX terminal](https://github.com/manaflow-ai/cmux) -- Preferred terminal for agentic coding.
+2. [Claude Code](https://code.claude.com/) -- CLI tool for coding, git, tests, PRs, automation. Install: `curl -fsSL https://claude.ai/install.sh | bash` (macOS/Linux) or `winget install Anthropic.ClaudeCode` (Windows). Run `claude` in any project directory.
+3. [Claude Desktop](https://claude.ai/download) -- Desktop app for Claude Chat and Claude Cowork. Download for macOS/Windows.
 
 ## Chrome Extensions
 
-1. [Apollo Dev Tools](https://chrome.google.com/webstore/detail/apollo-client-devtools/jdkknkkbebbapilgoeccciglkfbmbnfm)
-2. [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-3. [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
-4. [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en)
-5. [Refined Github](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf?hl=en)
-6. [LocatorJS](https://chrome.google.com/webstore/detail/locatorjs/npbfdllefekhdplbkdigpncggmojpefi)
-7. [GraphQL Network Inspector](https://chrome.google.com/webstore/detail/graphql-network-inspector/ndlbedplllcgconngcnfmkadhokfaaln)
+1. [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+2. [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
+3. [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en)
+4. [Refined Github](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf?hl=en)
+5. [LocatorJS](https://chrome.google.com/webstore/detail/locatorjs/npbfdllefekhdplbkdigpncggmojpefi)
+6. [GraphQL Network Inspector](https://chrome.google.com/webstore/detail/graphql-network-inspector/ndlbedplllcgconngcnfmkadhokfaaln)
 
 ## Tools
 
