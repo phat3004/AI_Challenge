@@ -35,6 +35,12 @@ The challenge exists to surface:
 
 Agentic engineering doesn't *create* these qualities. It amplifies what you already bring — it enhances candidates who have them, and exposes candidates who don't. Your job is to direct the AI, evaluate its output, catch what it misses, and own every line that ends up in the submission.
 
+## Submit your AI conversation (required)
+
+Include the **verbatim messages you sent to your coding agent** alongside your code — a chat export, transcript file, or readable log. Any format works as long as it's the raw conversation, not a cleaned-up retelling.
+
+This is not optional. **Submissions without an AI conversation log will score noticeably lower.** We read it to understand how you directed the AI: how you broke the problem down, where you caught mistakes the AI made, which trade-offs you negotiated, and what you chose to ignore. The conversation is part of the work product, not an afterthought.
+
 ## Challenges
 
 ### Beginner (2–4 hours)

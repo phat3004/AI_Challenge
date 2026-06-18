@@ -18,7 +18,8 @@ Không có đậu/rớt. Chúng tôi lắng nghe **sự cụ thể, sự thành 
 **Cho ứng viên:**
 
 - Trả lời bằng ngôn ngữ nào bạn thấy thoải mái (tiếng Việt hay tiếng Anh đều được).
-- Chọn những câu bạn thấy hứng thú — không cần trả lời hết 13 câu.
+- **Hai câu bắt buộc với mọi ứng viên:** Q4 (ký ức đầu tiên) và Q5 (lần cuối bỏ quên một món đồ). Phải trả lời.
+- Ngoài hai câu trên, chọn những câu bạn thấy hứng thú — không cần trả lời hết 13 câu.
 - Luôn giải thích *tại sao*. Lý do quan trọng hơn lựa chọn.
 - Đừng diễn. Chúng tôi nhận ra ngay câu trả lời được uốn nắn để chiều người phỏng vấn thay vì thành thật.
 
@@ -56,7 +57,7 @@ Chúng tôi gom câu hỏi theo tải nhận thức, không phải theo mức đ
 
 ## Khởi động
 
-### Q4 — Ký ức đầu tiên của bạn là gì? · `[M]`
+### Q4 — Ký ức đầu tiên của bạn là gì? · `[M]` · **Bắt buộc**
 
 > Ký ức đầu tiên của bạn là gì?
 
@@ -110,7 +111,7 @@ Một người cụ thể, với chi tiết cụ thể về những gì họ là
 
 ---
 
-### Q5 — Lần cuối bạn bỏ quên một món đồ là khi nào? Đồ gì? · `[M, O]`
+### Q5 — Lần cuối bạn bỏ quên một món đồ là khi nào? Đồ gì? · `[M, O]` · **Bắt buộc**
 
 > Lần cuối cùng bạn bỏ quên một món đồ là khi nào và món đồ là gì?
 
